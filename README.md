@@ -1,4 +1,4 @@
-<h1 align="center">NVIDIA Auto Installer for Fedora Linux</h1>
+<h1 align="center">Forked - NVIDIA Auto Installer for Fedora Linux</h1>
 <p align="center">A CLI tool which lets you install proprietary NVIDIA drivers and much more easily on Fedora Linux (32 or above and Rawhide)</p>
 
 <p align="center">
